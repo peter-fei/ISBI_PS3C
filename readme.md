@@ -1,5 +1,5 @@
 
-# ISBI_PS3C Challenge Champion Solution 🏆
+# ISBI_PS3C Champion Solution 🏆
 
 **First Place Solution** using Foundation Models and Ensemble Learning
 
