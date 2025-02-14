@@ -21,7 +21,7 @@ pip install autogluon==1.2
 
 # Train UNI model
 
-python main.py --encoder uni --save_dir [YOUR_SAVE_PATH] --batch_size 128
+python main.py --encoder uni --save_dir [YOUR_SAVE_PATH] --batch_size 64
 
 # Train GigaPath model
 
