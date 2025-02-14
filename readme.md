@@ -7,8 +7,9 @@
 
 This repository contains the champion solution for the ISBI_PS3C challenge, leveraging state-of-the-art foundation models combined with ensemble learning strategies. Our approach achieves superior performance through:
 
-- **Multi-model Ensemble**: Integration of UNI, GigaPath, and Hoptimus foundation models
-- **Advanced Framework**: Built on AutoGluon 1.2 for automated machine learning
+- **Low-rank Adaptation**: Low-rank Adaptation for pathology foundation models.
+- **Multi-model Ensemble**: Integration of UNI, GigaPath, and Hoptimus.
+- **Advanced Framework**: Built on AutoGluon 1.2 for automated machine learning.
 
 ## 🚀 Quick Start
 
